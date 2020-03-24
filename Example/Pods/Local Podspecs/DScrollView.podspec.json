@@ -1,0 +1,22 @@
+{
+  "name": "DScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of DScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hash Techs/DScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hash Techs": "hashtechsdevteam@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Hash Techs/DScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DScrollView/Classes/**/*"
+}
