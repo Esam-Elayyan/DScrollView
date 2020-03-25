@@ -34,6 +34,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.platforms = {
       "ios": "12.0"'
+  }
 
   # s.source_files = 'DScrollView/Classes/**/*'
   
