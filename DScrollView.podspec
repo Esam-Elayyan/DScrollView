@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 'DScrollView is an awesome pod aimed to make your life easier around UIScrollViews.'
                        DESC
 
-  s.homepage         = 'https://github.com/Esam-Elayyan/DScrollView'
+  s.homepage         = 'https://github.com/Hash Techs/DScrollView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Esam-Elayyan' => 'esamelayyan93@gmail.com' }
-  s.source           = { :git => 'https://github.com/Esam-Elayyan/DScrollView.git', :tag => s.version.to_s }
+  s.author           = { 'Hash Techs' => 'hashtechsdevteam@gmail.com' }
+  s.source           = { :git => 'https://github.com/Hash Techs/DScrollView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.source_files = 'Source/**/*.swift'
   s.swift_version = '5.0'
   s.platforms = {
-      "ios": "12.0"'
+      "ios": "12.0"
   }
 
   # s.source_files = 'DScrollView/Classes/**/*'
@@ -46,4 +46,5 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'TinyConstraints', '~> 4.0.0'
+  
 end
